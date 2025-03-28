@@ -30,15 +30,16 @@ aviation-accident-analysis/
 │
 ├── Presentation/                   # Final Presentation slides (PDF, PPTX)
 │   ├── Aviation_Analysis.pptx      # PowerPoint slides
-
+│   ├── Aviation_Analysis.pdf     # PowerPoint slides in pdf  form
 │
 ├── pdf formats/                    # Additional report formats
 │  ├── Aviation_Report.pdf         # ionPDF vers
-
+│   ├── Aviation_Analysis.pdf     # PowerPoint slides in pdf  form
+│
 ```
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 - **Python (Pandas, NumPy, Matplotlib, Seaborn)** - Data cleaning, manipulation, and visualization
 - **Jupyter Notebook** - Interactive analysis & coding
 - **Tableau** - Advanced visualization and interactive dashboard
@@ -84,7 +85,7 @@ Then open `Aviation_analysis.ipynb` and execute the cells.
 ##  Tableau Dashboard
 ### 🔹 Interactive Visualizations
 View the full Tableau **Aviation Accident Dashboard** here:  
-👉 [Tableau Public Dashboard](https://public.tableau.com/your-dashboard-link)
+👉 [Tableau Public Dashboard(https://public.tableau.com/app/profile/mohammed.abdi.farhan/viz/Aviation-analysis-dashboard/Aviation-Acccident-Analysis-Dashboard)
 
 ### 🔹 Tableau Visualizations
 1. **Accidents by Country** - A world map representation of accident distribution
